@@ -46,8 +46,6 @@
 
 ### 🛠 Использование
 
-![Пример атаки DoS Tool](https://raw.githubusercontent.com/DenisPythoneer/PythonDoSAttack/main/image/ScreenshotTwo.png)
-
 Запустите программу:
 
     bash
@@ -59,6 +57,8 @@
     Укажите количество запросов (от 10 до 1000).
 
     Нажмите Enter и наблюдайте за статистикой.
+
+![Пример атаки DoS Tool](https://raw.githubusercontent.com/DenisPythoneer/PythonDoSAttack/main/image/ScreenshotTwo.png)
 
 ![Пример атаки DoS Tool](https://raw.githubusercontent.com/DenisPythoneer/PythonDoSAttack/main/image/screenshotThree.png)
 
